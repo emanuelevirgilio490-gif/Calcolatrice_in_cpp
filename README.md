@@ -12,7 +12,7 @@ Amo il C++ ed è il mio linguaggio preferito
 al momento ma lasciate che vi spieghi questo
 codice!
 
-**Cosa fa?*
+**Cosa fa?**
 
 chiede: 
 - Un char per l'operazione da svolgere;
@@ -29,5 +29,20 @@ come:
 - //;
 - sqrt();
 ...
+
+**Come eseguire il file su Linux?**
+
+Apri il terminale e scrivi:
+#g++ main.cpp -o main#
+
+non serve cambiare i permessi con chmod perché fa tutto g++!
+
+Ora scrivi:
+
+#./main.cpp#
+
+FATTO!
+
+------
 
 Grazie per l'attenzione. Ciao!
