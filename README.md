@@ -33,13 +33,12 @@ come:
 **Come eseguire il file su Linux?**
 
 Apri il terminale e scrivi:
-#g++ main.cpp -o main#
+`g++ main.cpp -o main`
 
 non serve cambiare i permessi con chmod perché fa tutto g++!
 
 Ora scrivi:
-
-#./main.cpp#
+`./main.cpp`
 
 FATTO!
 
